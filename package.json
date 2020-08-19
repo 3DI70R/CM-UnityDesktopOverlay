@@ -1,0 +1,11 @@
+{
+  "name": "com.pheonise.unity.desktopoverlay",
+  "version": "1.0.0",
+  "displayName": "Unity3D Desktop Overlay",
+  "unity": "2017.1",
+  "author": {
+    "name": "pheonise"
+  },
+  "description": "Package wrapper for https://github.com/pheonise/Unity3D-Desktop-Overlay",
+  "type": "library"
+}
